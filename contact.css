@@ -1,0 +1,19 @@
+.contact-info {
+  padding: 40px;
+  text-align: center;
+}
+
+.contact-item {
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  font-size: 1.2rem;
+}
+
+.contact-item svg {
+  width: 24px;
+  height: 24px;
+  color: #4ade80;
+}
